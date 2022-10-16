@@ -3,7 +3,7 @@
 
 <h1 align="center">Node Binance Trader NBT</h1>
 
-<h4 align="center">NBT is a Cryptocurrency Trading Strategy & Portfolio Management Development Framework for <a href='https://www.binance.com/en/register?ref=DULNH2ZZ' target="_new">Binance</a>.</h4>
+<h4 align="center">NBT is a Cryptocurrency Trading Strategy & Portfolio Management Development Framework for <a href='https://www.binance.com/en/register?ref=CRQ7Y5TF' target="_new">Binance</a>.</h4>
 
 ## Table of contents
 
@@ -28,7 +28,7 @@ NBT includes 3 main JS scripts:
 
 * the **server**:
 
-  * to track a selection of asset pairs and record all [Binance](https://www.binance.com/en/register?ref=DULNH2ZZ) api data (candles, depths, trades) into a Postgres database.
+  * to track a selection of asset pairs and record all [Binance](https://www.binance.com/en/register?ref=CRQ7Y5TF) api data (candles, depths, trades) into a Postgres database.
   * to detect buy or sell signals
   * (optional) to send trading signals to the NBT Hub / [Bitcoin vs. Altcoins](https://bitcoinvsaltcoins.com) to monitor performances and auto trade those signals (virtually or for real).
 
@@ -47,21 +47,26 @@ NBT includes 3 main JS scripts:
 > There are no warranties or guarantees expressed or implied.
 > You assume all responsibility and liability.
 
-## Donate
+## Binance Account - Get 10% discount on fees!
 
-Become a patron, by simply clicking on this button (**very appreciated!**):
+Don't you have a **Binance** account yet?  
+Register using the **referal link** below and get a **10% discount on fees** for **all** your trades!
 
-[![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/bePatron?u=4121661)
+[**https://accounts.binance.com/en/register?ref=IMNOXVUY**](https://accounts.binance.com/en/register?ref=IMNOXVUY)  
 
-If this repo helped you in any way, you can always leave me a BNB tip at 0xf0c499c0accddd52d2f96d8afb6778be0659ee0c
 
-## Getting in touch
+## Enjoy - Donate - Buy me a beer!  =]
 
-* **Discord**: [Invite Link](https://discord.gg/4EQrEgj)
+Thank you for using Binance to Google Sheets add-on!  
+I really hope you enjoyed and loved it as much as I love to use it everyday.
 
-<p align="center">
-  <a href="https://discord.gg/4EQrEgj"><img alt="Discord chat" src="docs/images/discord_button.png" /></a>
-</p>
+If your love is strong enough, feel free to share it with me!  =D  
+I will much appreciate any contribution and support to keep working on it.  
+I have several ideas for new features, so much more could come!
+
+You can send any token through the **Binance Smart Chain** (BSC/BEP20) to the address:  
+`0x51CeC0bB36BacC9765e1A5fa67b84810DeF607Ae`
+---
 
 ## Final Notes
 
